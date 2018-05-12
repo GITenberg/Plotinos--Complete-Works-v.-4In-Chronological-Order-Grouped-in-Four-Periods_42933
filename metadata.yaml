@@ -1,0 +1,42 @@
+_repo: Plotinos--Complete-Works-v.-4In-Chronological-Order-Grouped-in-Four-Periods_42933
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Guthrie, Kenneth Sylvan
+    aliases:
+    - Guthrie, K. S. (Kenneth Sylvan)
+    - Guthrie, Kenneth Sylvan Launfal
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '41933'
+    url: http://www.gutenberg.org/2009/agents/41933
+covers:
+- cover_type: archival
+  image_path: 42933-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Plotinus
+    aliases:
+    - Plotinos
+    - Πλωτῖνος
+    birthdate: 204
+    deathdate: 270
+    gutenberg_agent_id: '33956'
+    url: http://www.gutenberg.org/2009/agents/33956
+    wikipedia: http://en.wikipedia.org/wiki/Plotinus
+description: ''
+gutenberg_issued: '2013-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plotinus'
+- !lcc 'B'
+title: 'Plotinos: Complete Works, v. 4
+
+  In Chronological Order, Grouped in Four Periods'
+url: http://www.gutenberg.org/ebooks/42933
