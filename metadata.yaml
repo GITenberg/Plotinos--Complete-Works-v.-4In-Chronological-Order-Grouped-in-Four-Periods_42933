@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33956
     wikipedia: http://en.wikipedia.org/wiki/Plotinus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42933#Plotinos--Complete-Works-v.-4In-Chronological-Order-Grouped-in-Four-Periods
 gutenberg_issued: '2013-06-13'
 gutenberg_type: Text
 identifiers:
